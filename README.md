@@ -8,8 +8,8 @@
     </tr>
     <tr>
       <td>1</td>
-      <td align="center">[Quiz Game](https://github.com/zura-japoshvili/QuizGame-App "Quiz Game")</td>
-      <td align="right">[Live Demo](https://zura-japoshvili.github.io/QuizGame-App/ "Live Demo")</td>
+      <td align="center">[Quiz Game](https://github.com/zura-japoshvili/QuizGame-App)</td>
+      <td align="right">[Live Demo](https://zura-japoshvili.github.io/QuizGame-App/)</td>
     </tr>
     <tr>
       <td>2</td>
