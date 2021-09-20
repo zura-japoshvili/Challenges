@@ -8,7 +8,7 @@
     </tr>
     <tr>
       <td>1</td>
-      <td align="center">[Quiz Game](https://github.com/zura-japoshvili/QuizGame-App)</td>
+      <td align="center"><a href="https://github.com/zura-japoshvili/QuizGame-App">Quiz Game</a></td>
       <td align="right">[Live Demo](https://zura-japoshvili.github.io/QuizGame-App/)</td>
     </tr>
     <tr>
