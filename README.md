@@ -9,7 +9,7 @@
     <tr>
       <td>1</td>
       <td align="center"><a href="https://github.com/zura-japoshvili/QuizGame-App">Quiz Game</a></td>
-      <td align="right"><a href="">Live Demo</a>[Live Demo](https://zura-japoshvili.github.io/QuizGame-App/)</td>
+      <td align="right"><a href="https://zura-japoshvili.github.io/QuizGame-App/">Live Demo</a></td>
     </tr>
     <tr>
       <td>2</td>
@@ -23,7 +23,7 @@
     </tr>
 	    <tr>
       <td>4</td>
-      <td align="center"><a href="Weather App">https://github.com/zura-japoshvili/Weather-App</a></td>
+      <td align="center"><a href="https://github.com/zura-japoshvili/Weather-App">Weather App</a></td>
       <td align="right"><a href="https://zura-japoshvili.github.io/Weather-App/">Live Demo</a></td>
     </tr>
 		    <tr>
@@ -41,7 +41,7 @@
       <td align="right"><a href="https://zura-japoshvili.github.io/Review-Carousel/">Live Demo</a></td>
     </tr>	    <tr>
       <td>8</td>
-      <td align="center"><a href="https://github.com/zura-japoshvili/Color-Flipper">Color Flipper]</a>[( "Color Flipper")</td>
+      <td align="center"><a href="https://github.com/zura-japoshvili/Color-Flipper">Color Flipper]</a></td>
       <td align="right"><a href="https://zura-japoshvili.github.io/Color-Flipper/">Live Demo</a></td>
     </tr>	    <tr>
       <td>9</td>
@@ -61,7 +61,7 @@
 		 <tr>
       <td>12</td>
       <td align="center"><a href="https://github.com/zura-japoshvili/Covid-19-Statistics">C-19 Statistics</a></td>
-      <td align="right"><a href="ttps://zura-japoshvili.github.io/Covid-19-Statistics/">Live Demo</a></td>
+      <td align="right"><a href="https://zura-japoshvili.github.io/Covid-19-Statistics/">Live Demo</a></td>
     </tr>
   </tbody>
 </table>
