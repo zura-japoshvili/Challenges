@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td>3</td>
-      <td align="center"><a href="https://github.com/zura-japoshvili/AdviceSlip">AdviceSlip</a></td>
+      <td align="center"><a href="https://github.com/zura-japoshvili/Time-Tracking-Dashboard">Time Tracking Dashboard"</a></td>
       <td align="right"><a href="https://zura-japoshvili.github.io/AdviceSlip/">Live Demo</a></td>
     </tr>
 	    <tr>
@@ -62,6 +62,11 @@
       <td>12</td>
       <td align="center"><a href="https://github.com/zura-japoshvili/Covid-19-Statistics">C-19 Statistics</a></td>
       <td align="right"><a href="https://zura-japoshvili.github.io/Covid-19-Statistics/">Live Demo</a></td>
+    </tr>
+        <tr>
+      <td>13</td>
+      <td align="center"><a href="https://github.com/zura-japoshvili/AdviceSlip">AdviceSlip</a></td>
+      <td align="right"><a href="https://zura-japoshvili.github.io/AdviceSlip/">Live Demo</a></td>
     </tr>
   </tbody>
 </table>
