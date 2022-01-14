@@ -6,9 +6,19 @@
       <th align="center">Name</th>
       <th align="right">Live Demo</th>
     </tr>
-    <tr>
+        <tr>
       <td>1</td>
-      <td align="center"><a href="https://github.com/zura-japoshvili/QuizGame-App">Quiz Game</a></td>
+      <td align="center"><a href="https://github.com/zura-japoshvili/mines_game">Mines Game</a></td>
+      <td align="right"><a href="https://zura-japoshvili.github.io/mines_game/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td align="center"><a href="https://github.com/zura-japoshvili/QuizGame-App">Quiz App</a></td>
+      <td align="right"><a href="https://zura-japoshvili.github.io/QuizGame-App/">Live Demo</a></td>
+    </tr>
+        <tr>
+      <td>3</td>
+      <td align="center"><a href="https://github.com/zura-japoshvili/hilo_game">Hilo Game</a></td>
       <td align="right"><a href="https://zura-japoshvili.github.io/QuizGame-App/">Live Demo</a></td>
     </tr>
     <tr>
