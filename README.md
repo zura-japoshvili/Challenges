@@ -9,7 +9,7 @@
     <tr>
       <td>1</td>
       <td align="center"><a href="https://github.com/zura-japoshvili/-Song-_social-app">"Song" - Social Media</a></td>
-      <td align="right"><a href="#">#</a></td>
+      <td align="right"><a href="#">In Progress</a></td>
     </tr>
     <tr>
       <td>2</td>
