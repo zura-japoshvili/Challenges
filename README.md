@@ -13,7 +13,7 @@
     </tr>
     <tr>
       <td>2</td>
-      <td align="center"><a href="https://github.com/zura-japoshvili/personal-project-angular">Quin Platform - Ng</a></td>
+      <td align="center"><a href="https://github.com/zura-japoshvili/personal-project-angular">Quiz Platform - Ng</a></td>
       <td align="right"><a href="#">#</a></td>
     </tr>
     <tr>
